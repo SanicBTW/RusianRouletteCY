@@ -1,0 +1,13 @@
+yeah funny log of what i did or something
+
+nondestructive log (made so i can clean up the comments ig, some code was copied cuz its 4 am and im lazy rn)
+
+funny comment here, heavily based off the demo that cypress provided on the Cy github, also i had to check the interpreter too
+ok i know you dont really care but i spent like a bunch of time in this
+ill have to do some kind of clean up or something lol
+4:12 kind of removed the debug traces or something
+
+what = MathRound(Random() * FatalBullet ) the same as above or something, its 3 am rn almost 4 and i cant barely think properly
+
+WriteLine("Dont ask why I did this") im sorry
+
